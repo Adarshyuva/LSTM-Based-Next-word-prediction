@@ -51,7 +51,7 @@ Translates input text into multiple languages (French, Spanish, German, Hindi, C
 Enhanced UI for a sleek, modern look using Streamlit's styling
 ====================================================================================================================================================================
 To clone the repo
-git clone https://github.com/ujwalreddybattu04/LSTM-Based-Next-word-predection.git
+git clone https://github.com/Adarshyuva/LSTM-Based-Next-word-predection.git
 ====================================================================================================================================================================
 word predector interface
 ![image](https://github.com/user-attachments/assets/8b1bcf8a-0894-4737-9f7f-978367f15f4f)
